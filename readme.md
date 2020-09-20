@@ -1,7 +1,5 @@
 # Simple dashboard implementation with EJS, Express, PostgreSQL, and Sequelize
 
-Make sure you `remove all the tables` if you use full REST API version or vice versa! (just to make sure everything went butter)
-
 ### Installation
 
 Require [Node.js](https://nodejs.org/) and PostgreSQL to run.
